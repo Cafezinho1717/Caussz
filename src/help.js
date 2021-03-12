@@ -1,11 +1,12 @@
 const help = (prefix) => {
 	return `
 <══════════════════════>
-      *CAUSS BOT*
+      *Café BOT*
  <══════════════════════>
 
 __█████████  ● ᏴϴͲ●ᎷᎬΝႮ●         
 __█▄█████▄█   *DONO*    : CAUSS
+               +Mod+     : café 😄
 __█▼▼▼▼▼█ 
 _██ᏴϴͲ Ꮩ1.0██▌ 
 __█▲▲▲▲▲█ 
@@ -70,7 +71,7 @@ ____██_____██
   ├─ 🐊 ${prefix}trendtwit
   ├─ 🐊 ${prefix}randomkpop
   └─ 🐊 ${prefix}ytsearch
-🧐 *escolaKKKKK*
+🧐 *escolaKKKK BOA CAUSSSS KKKK*
   │
   ├─ 🐊 ${prefix}wiki
   ├─ 🐊 ${prefix}wikien
@@ -78,19 +79,14 @@ ____██_____██
   ├─ 🐊 ${prefix}quotes
   ├─ 🐊 ${prefix}quotes2
   └─ 🐊 ${prefix}artinama
-🧐 *KERANG AJAIB*
-  │
-  ├─ 🐊 ${prefix}apakah
-  ├─ 🐊 ${prefix}kapankah
-  ├─ 🐊 ${prefix}rate
-  └─ 🐊 ${prefix}bisakah
-🧐 *DOWNLOADER*
+
+🧐 *BAIXAR MÍDIA*
   │
   ├─ 🐊 ${prefix}images
   ├─ 🐊 ${prefix}ytmp3
   ├─ 🐊 ${prefix}ytmp4
   ├─ 🐊 ${prefix}tiktok
-  └─ 🐊 ${prefix}joox
+
 🧐 *MEME*
   │
   ├─ 🐊 ${prefix}meme
@@ -103,14 +99,8 @@ ____██_____██
   │
   ├─ 🐊 ${prefix}lirik
   └─ 🐊 ${prefix}chord
-🧐 *ISLAM*
-  │
-  └─ 🐊 ${prefix}quran
-🧐 *STALK*
-  │
-  ├─ 🐊 ${prefix}tiktokstalk
-  └─ 🐊 ${prefix}igstalk
-🧐 *WIBU*
+
+🧐 *OTAKU FEDIDO*
   │
   ├─ 🐊 ${prefix}neonime
   ├─ 🐊 ${prefix}pokemon
@@ -132,17 +122,8 @@ ____██_____██
   ├─ 🐊 ${prefix}trust
   ├─ 🐊 ${prefix}dare
   └─ 🐊 ${prefix}simi
-🧐 *INFORMAÇÃO*
-  │
-  ├─ 🐊 ${prefix}bahasa
-  ├─ 🐊 ${prefix}kodenegara
-  ├─ 🐊 ${prefix}kbbi
-  ├─ 🐊 ${prefix}fakta
-  ├─ 🐊 ${prefix}infocuaca
-  ├─ 🐊 ${prefix}infogempa
-  ├─ 🐊 ${prefix}jadwaltvnow
-  └─ 🐊 ${prefix}covid
-🧐 *COMANDOS DO CAUSS*
+
+🧐 *COMANDOS DO CAFÉ (ME OBRIGUE*
   │
   ├─ 🐊 ${prefix}setprefix
   ├─ 🐊 ${prefix}block
@@ -150,7 +131,7 @@ ____██_____██
   ├─ 🐊 ${prefix}bcgc
   ├─ 🐊 ${prefix}clone
   └─ 🐊 ${prefix}clearall
-🧐 *Não faço ideia da categoria desses*
+🧐 *SEI LÁ O QUE SÃO ESSAS BAGAÇA*
   │
   ├─ 🐊 ${prefix}send
   ├─ 🐊 ${prefix}wame
