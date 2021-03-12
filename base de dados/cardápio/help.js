@@ -25,7 +25,6 @@ const help = (prefix, ownerBot, botName) => {
   ├─ ❏ ${prefix}groupmenu
   ├─ ❏ ${prefix}soundmenu
   ├─ ❏ ${prefix}musicmenu
-  ├─ ❏ ${prefix}islammenu
   ├─ ❏ ${prefix}stalkmenu
   ├─ ❏ ${prefix}wibumenu
   ├─ ❏ ${prefix}18+menu
